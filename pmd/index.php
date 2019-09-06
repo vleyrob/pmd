@@ -1,32 +1,24 @@
 <?php get_header(); ?>
 
-		<!-- Slider
-		============================================= -->
-		<section id="slider" class="slider-element clearfix" style="height: 500px; background: url('demos/interior-design/images/hero-image.jpg') center center no-repeat; background-size: cover;">
-			<div class="vertical-middle">
-				<div class="container clearfix">
-
-					<div class="clearfix center divcenter" style="max-width: 700px;">
-						<div class="emphasis-title">
-							<h1 class="font-secondary" style="color: #FFF; font-size: 76px; font-weight: 900; text-shadow: 0 7px 10px rgba(0,0,0,0.07), 0 4px 4px rgba(0,0,0,0.2);">Design Studio.</h1>
-							<p style="font-weight: 300; opacity: .7; color: #FFF; text-shadow: 0 -4px 20px rgba(0, 0, 0, .25);">Sell your home to us and skip the hassle of<br>repairs, showings and months of uncertainty</p>
-						</div>
-						<div class="subscribe-widget" data-loader="button">
-							<div class="widget-subscribe-form-result"></div>
-							<form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin" data-animate="fadeInUp">
-								<div class="input-group divcenter">
-									<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control form-control-lg not-dark required email" placeholder="Enter your Email Address.." style="border: 0; box-shadow: none; overflow: hidden;">
-									<div class="input-group-append">
-										<button href="#" class="button t400" type="submit" style="border-radius: 3px;">Subscribe</button>
-									</div>
+<section id="slider" class="slider-element full-screen slider-parallax">
+			<div class="slider-parallax-inner" style="background: url('<?php echo get_template_directory_uri(); ?>/images/hero.jpg') center center no-repeat; background-size: cover;">
+				<div class="vertical-middle" style="z-index: 2;">
+					<div class="container dark clearfix">
+						<div class="row clearfix">
+							<div class="col-lg-6 col-md-8">
+								<div class="emphasis-title">
+									<h1 class="font-body" style="text-transform:uppercase; line-height:60px">Crea <span style="color:#f6d935; font-weight:bold">+</span> <strong>contenido</strong><br>para tu <strong>negocio</strong>.</h1>
 								</div>
-							</form>
+								<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light capitalize" style="border-radius: 23px;">Dile sí al éxito</a>
+								<a href="https://www.youtube.com/watch?v=8xrk2C0_KFw" class="hero-action-link" data-lightbox="iframe"><i class="icon-play-sign"></i> Watch the Video</a>
+							</div>
 						</div>
 					</div>
-
+				</div>
+				<div class="video-wrap" style="position: absolute; height: 100%; z-index: 1;">
+					<div class="video-overlay" style="background: rgba(0,0,0,0.2);"></div>
 				</div>
 			</div>
-
 		</section>
 
 		<!-- Content
@@ -61,7 +53,7 @@
 					<div class="divcenter" style="max-width: 960px">
 						<div class="heading-block center nobottomborder">
 							<h2 class="ls2 t700">Your Priority is our Priority</h2>
-							<span>Competently benchmark backward-compatible technologies vis-a-vis<br>parallel convergence. Rapidiously innovate stand-alone.</span>
+							<span>PMD Comunicación es una agencia especializada en estrategias de comunicación para empresas públicas y privadas, que desean hacer llegar sus mensajes a públicos específicos por medios audiovisuales.</span>
 						</div>
 						<div class="tabs tabs-alt tabs-responsive tabs-justify clearfix" id="tab">
 

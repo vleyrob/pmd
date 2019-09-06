@@ -14,10 +14,10 @@ p { font-weight: 300; }
 }
 
 #primary-menu ul ul li > a {
-	font-size: 15px !important;
+	font-size: 14px !important;
 	font-weight: 400 !important;
 	color: #525975;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	background-color: transparent !important;
 }
 
@@ -100,10 +100,10 @@ body.side-panel-open #side-panel {
 	#primary-menu ul li > a {
 		padding-top: 32px;
 		padding-bottom: 32px;
-		font-size: 16px;
+		font-size: 14px;
 		font-weight: 400;
 		color: #525975;
-		text-transform: capitalize;
+		text-transform: uppercase;
 	}
 
 	#primary-menu ul ul:not(.mega-menu-column) {
