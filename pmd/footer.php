@@ -1,83 +1,86 @@
 		<!-- Footer
 		============================================= -->
-		<footer id="footer" class="topmargin noborder" style="background-color: #F5F5F5;">
+        <footer id="footer" class="dark notopborder">
 
-			<div class="container clearfix">
 
-				<!-- Footer Widgets
-				============================================= -->
-				<div class="footer-widgets-wrap clearfix">
 
-					<div class="col_one_fourth">
-						<div class="widget clearfix">
-							<div class="t400 lowercase nobottommargin" style="font-size: 36px; letter-spacing: -1px">Canvas</div>
-							<p class="text-muted t300">@2017</p>
+<!-- Copyrights
+============================================= -->
+<div id="copyrights">
 
-							<div class="app-links">
-								<p>Get the app</p>
-								<a href="#" class="link"><i class="icon-android2"></i> <span>Download for Android</span></a><br>
-								<a href="#" class="link"><i class="icon-apple"></i> <span>Download for IOS</span></a><br>
+    <div class="container center uppercase clearfix">
 
-							</div>
-						</div>
-					</div>
+        <!-- Footer Widgets
+    ============================================= -->
+    <div class="footer-widgets-wrap clearfix">
 
-					<div class="col_one_fourth">
-						<div class="widget widget_links clearfix">
-							<h4>Blogroll</h4>
-							<ul>
-								<li><a href="#">Documentation</a></li>
-								<li><a href="#">Feedback</a></li>
-								<li><a href="#">Plugins</a></li>
-								<li><a href="#">Support Forums</a></li>
-								<li><a href="#">Themes</a></li>
-							</ul>
-						</div>
-					</div>
+        <div class="row clearfix">
 
-					<div class="col_one_fourth">
-						<div class="widget widget_links clearfix">
-							<h4>Links</h4>
-							<ul>
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">FAQs</a></li>
-								<li><a href="#">Licence</a></li>
-								<li><a href="#">Forums</a></li>
-								<li><a href="#">Terms</a></li>
-							</ul>
-						</div>
-					</div>
+            <div class="col-lg-7 col-md-6">
+                <div class="widget clearfix">
+                    <div class="clear-bottommargin-sm">
+                        <div class="row clearfix">
 
-					<div class="col_one_fourth col_last">
-						<div class="widget widget-twitter-feed clearfix">
-							<h4>Twitter Feed</h4>
-							<ul class="iconlist twitter-feed nobottommargin" data-username="envato" data-count="2">
-								<li></li>
-							</ul>
-						</div>
-					</div>
+                            <div class="col-lg-6">
+                                <div class="footer-big-contacts">
+                                    <span>Llámenos al:</span>
+                                    +52 (664) 628 2856
+                                </div>
+                                <div class="d-block d-md-block d-lg-none bottommargin-sm"></div>
+                            </div>
 
-				</div><!-- .footer-widgets-wrap end -->
+                            <div class="col-lg-6">
+                                <div class="footer-big-contacts">
+                                    <span>Escríbanos a:</span>
+                                    pmdsergio@gmail.com
+                                </div>
+                                <div class="d-block d-md-none bottommargin-sm"></div>
+                            </div>
 
-			</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-block d-md-block d-lg-none bottommargin-sm"></div>
+            </div>
 
-			<div class="line nomargin"></div>
+            <div class="col-lg-5 col-md-6">
 
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights" class="" style="background-color: #FFF">
+                <div class="clearfix fright" data-class-xl="fright" data-class-lg="fright" data-class-md="fright" data-class-sm="" data-class-xs="">
+                    <a href="#" class="social-icon si-rounded si-small si-colored si-facebook">
+                        <i class="icon-facebook"></i>
+                        <i class="icon-facebook"></i>
+                    </a>
 
-				<div class="container clearfix">
+                    <a href="#" class="social-icon si-rounded si-small si-colored si-twitter">
+                        <i class="icon-twitter"></i>
+                        <i class="icon-twitter"></i>
+                    </a>
 
-					<div class="col_full center nomargin">
-						<span>Copyrights &copy; 2017 All Rights Reserved by Canvas Inc.</span>
-					</div>
+                    <a href="#" class="social-icon si-rounded si-small si-colored si-vimeo">
+                        <i class="icon-vimeo"></i>
+                        <i class="icon-vimeo"></i>
+                    </a>
 
-				</div>
 
-			</div><!-- #copyrights end -->
+                    <a href="#" class="social-icon si-rounded si-small si-colored si-linkedin">
+                        <i class="icon-linkedin"></i>
+                        <i class="icon-linkedin"></i>
+                    </a>
+                </div>
 
-		</footer><!-- #footer end -->
+            </div>
+
+        </div>
+
+    </div><!-- .footer-widgets-wrap end -->
+
+        Copyrights © 2019 Todos los derechos reservados.
+
+    </div>
+
+</div><!-- #copyrights end -->
+
+</footer>
 
 	</div><!-- #wrapper end -->
 
