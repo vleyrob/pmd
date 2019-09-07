@@ -34,6 +34,9 @@
 								<div class="col-12 col-md-8 offset-md-2">
 									<h3 class="ls0 t400 nott text-center" style="font-size: 20px; margin-bottom:0px">PMD Comunicación es una agencia especializada en estrategias de comunicación para empresas públicas y privadas, que desean hacer llegar sus mensajes a públicos específicos por medios audiovisuales.</h3>
 								</div>
+								<div class="col-12 col-md-2 offset-md-4">
+									<a href="https://www.youtube.com/watch?v=8xrk2C0_KFw" data-lightbox="iframe" class="button button-medium button-light button-nohover" ><i class="icon-line2-rocket"></i> Conoce nuestros servicios</a>
+								</div>
 							</div>
 						</div>
 
@@ -49,10 +52,10 @@
 						<div class="tabs tabs-alt tabs-responsive tabs-justify clearfix" id="tab">
 
 							<ul class="tab-nav clearfix">
-								<li><a href="#tabs-1"><i class="icon-line-video"></i> Producciones audiovisuales</a></li>
-								<li><a href="#tabs-2"><i class="icon-cloud"></i>Transmisión de eventos en vivo</a></li>
-								<li><a href="#tabs-3"><i class="icon-chat-3"></i>Asesoría en comunicación estratégica</a></li>
-								<li><a href="#tabs-4"><i class="icon-bolt"></i>Marketing digital</a></li>
+								<li><a href="#tabs-1"><i class="icon-line2-camcorder"></i> Producciones audiovisuales</a></li>
+								<li><a href="#tabs-2"><i class="icon-line2-feed"></i>Transmisión de eventos en vivo</a></li>
+								<li><a href="#tabs-3"><i class="icon-line2-puzzle"></i>Asesoría en comunicación estratégica</a></li>
+								<li><a href="#tabs-4"><i class="icon-line2-diamond"></i>Marketing digital</a></li>
 							</ul>
 
 							<div class="tab-container">
