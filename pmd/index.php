@@ -9,8 +9,7 @@
 								<div class="emphasis-title">
 									<h1 class="font-body" style="text-transform:uppercase; line-height:60px">Crea <span style="color:#f6d935; font-weight:bold">+</span> <strong>contenido</strong><br>para tu <strong>negocio</strong>.</h1>
 								</div>
-								<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light" style="border-radius: 23px;"><i class="icon-play-sign"></i> Demo reel</a>
-								&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=8xrk2C0_KFw" class="hero-action-link" data-lightbox="iframe"><i class="icon-play-sign"></i> Demo reel</a>
+								<a href="https://www.youtube.com/watch?v=8xrk2C0_KFw" data-lightbox="iframe" class="button button-large button-white button-light" style="border-radius: 23px;"><i class="icon-play-sign"></i> Demo reel 2019</a>
 							</div>
 						</div>
 					</div>
