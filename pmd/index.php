@@ -9,7 +9,7 @@
 								<div class="emphasis-title">
 									<h1 class="font-body" style="text-transform:uppercase; line-height:60px">Crea <span style="color:#f6d935; font-weight:bold">+</span> <strong>contenido</strong><br>para tu <strong>negocio</strong>.</h1>
 								</div>
-								<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light" style="border-radius: 23px;">Demo reel</a>
+								<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light" style="border-radius: 23px;"><i class="icon-play-sign"></i> Demo reel</a>
 								&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=8xrk2C0_KFw" class="hero-action-link" data-lightbox="iframe"><i class="icon-play-sign"></i> Demo reel</a>
 							</div>
 						</div>
@@ -51,9 +51,9 @@
 
 							<ul class="tab-nav clearfix">
 								<li><a href="#tabs-1"><i class="icon-line-video"></i> Producciones audiovisuales</a></li>
-								<li><a href="#tabs-2"><i class="icon-wifi-full"></i>Transmisión de eventos en vivo</a></li>
-								<li><a href="#tabs-3"><i class="icon-connection-full"></i>Asesoría en comunicación estratégica</a></li>
-								<li><a href="#tabs-4"><i class="icon-line2-pointer"></i>Marketing digital</a></li>
+								<li><a href="#tabs-2"><i class="icon-cloud"></i>Transmisión de eventos en vivo</a></li>
+								<li><a href="#tabs-3"><i class="icon-chat-3"></i>Asesoría en comunicación estratégica</a></li>
+								<li><a href="#tabs-4"><i class="icon-bolt"></i>Marketing digital</a></li>
 							</ul>
 
 							<div class="tab-container">
@@ -78,7 +78,7 @@
 											<img src="demos/interior-design/images/story/2.jpg" alt="story-image">
 										</div>
 										<div class="story-box-info">
-											<h3 class="story-title">Get better results tomorrow by reading this post.</h3>
+											<h3 class="story-title">Transmisión de eventos en vivo</h3>
 											<div class="story-box-content">
 												<p>Progressively streamline future-proof networks rather than virtual channels. Intrinsicly architect performance based products with B2C communities. Appropriately underwhelm integrated information via superior platforms.</p>
 												<button class="t300 button noleftmargin button-rounded">Read More</button>
@@ -92,7 +92,7 @@
 											<img src="demos/interior-design/images/story/3.jpg" alt="story-image">
 										</div>
 										<div class="story-box-info">
-											<h3 class="story-title">TK’s recipe of the week: Guiness beef stew.</h3>
+											<h3 class="story-title">Asesoría en comunicación estratégica</h3>
 											<div class="story-box-content">
 												<p>Compellingly synthesize technically sound users without technically sound vortals. Rapidiously redefine maintainable leadership with multifunctional strategic theme areas. Appropriately plagiarize business ideas vis-a-vis.</p>
 												<button class="t300 button noleftmargin button-rounded">Read About Me</button>
@@ -106,7 +106,7 @@
 											<img src="demos/interior-design/images/story/4.jpg" alt="story-image">
 										</div>
 										<div class="story-box-info">
-											<h3 class="story-title">We help people to create new Website.</h3>
+											<h3 class="story-title">Marketing digital</h3>
 											<div class="story-box-content">
 												<p>Dynamically exploit cross-platform sources vis-a-vis scalable paradigms. Efficiently plagiarize multifunctional internal or "organic" sources before intuitive innovation. Synergistically facilitate goal-oriented ROI vis-a-vis client-focused.</p>
 												<a href="#">Read Deanne's story</a>
