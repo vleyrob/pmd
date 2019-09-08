@@ -7,7 +7,7 @@
 
 	<!-- Stylesheets
 	============================================= -->
-	<link href="http://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Playfair+Display:700,700i,900" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Playfair+Display:700,700i,900" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css" type="text/css" />
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/dark.css" type="text/css" />
@@ -31,7 +31,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PMD COmunciación</title>
+	<title>PMD Comunciación</title>
 
 </head>
 
@@ -108,16 +108,10 @@
 							<nav id="primary-menu" class="with-arrows clearfix">
 
 								<ul class="one-page-menu">
-									<li><a href="#"><div>Inicio</div></a></li>
-                                    <li><a href="#"><div>Servicios</div></a></li>
-									<li><a href="#"><div>Productos</div></a>
-
-										<ul>
-											<li><a href="#"><div>Video</div></a></li>
-											<li><a href="#"><div>Transmisiones en vivo</div></a></li>
-										</ul>
-									</li>
-									<li><a href="#"><div>Contacto</div></a></li>
+									<li><a href="<?php echo get_site_url(); ?>"><div>Inicio</div></a></li>
+                                    <li><a href="#" data-scrollto="#section-servicios" data-easing="easeInOutExpo" data-speed="1250" data-offset="160"><div>Servicios</div></a></li>
+									<li><a href="#" data-scrollto="#section-proyectos" data-easing="easeInOutExpo" data-speed="1250" data-offset="160"><div>Proyectos</div></a></li>
+									<li><a href="#" data-scrollto="#section-contacto" data-easing="easeInOutExpo" data-speed="1250" data-offset="160"><div>Contacto</div></a></li>
 								</ul>
 							</nav><!-- #primary-menu end -->
 						</div>
