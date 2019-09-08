@@ -51,10 +51,10 @@
 						<div class="tabs tabs-alt tabs-responsive tabs-justify clearfix" id="tab">
 
 							<ul class="tab-nav clearfix">
-								<li><a href="#tabs-1"><i class="icon-line-video"></i> Producciones audiovisuales</a></li>
-								<li><a href="#tabs-2"><i class="icon-cloud"></i>Circuito cerrado</a></li>
-								<li><a href="#tabs-3"><i class="icon-chat-3"></i>Asesoría en comunicación estratégica</a></li>
-								<li><a href="#tabs-4"><i class="icon-bolt"></i>Marketing digital</a></li>
+								<li><a href="#tabs-1"><i class="icon-film"></i> Producciones audiovisuales</a></li>
+								<li><a href="#tabs-2"><i class="icon-video"></i>Circuito cerrado</a></li>
+								<li><a href="#tabs-3"><i class="icon-line2-speech"></i>Asesoría en comunicación estratégica</a></li>
+								<li><a href="#tabs-4"><i class="icon-bolt2"></i>Marketing digital</a></li>
 							</ul>
 
 							<div class="tab-container">
@@ -103,7 +103,7 @@
 										<div class="story-box-info">
 											<h3 class="story-title">Asesoría en comunicación estratégica e imagen pública</h3>
 											<div class="story-box-content">
-												<p>Compellingly synthesize technically sound users without technically sound vortals. Rapidiously redefine maintainable leadership with multifunctional strategic theme areas. Appropriately plagiarize business ideas vis-a-vis.</p>
+												<p></p>
 												<a href="#">Más información</a>
 											</div>
 										</div>
