@@ -52,7 +52,7 @@
 
 							<ul class="tab-nav clearfix">
 								<li><a href="#tabs-1"><i class="icon-line-video"></i> Producciones audiovisuales</a></li>
-								<li><a href="#tabs-2"><i class="icon-cloud"></i>Transmisión de eventos en vivo</a></li>
+								<li><a href="#tabs-2"><i class="icon-cloud"></i>Circuito cerrado</a></li>
 								<li><a href="#tabs-3"><i class="icon-chat-3"></i>Asesoría en comunicación estratégica</a></li>
 								<li><a href="#tabs-4"><i class="icon-bolt"></i>Marketing digital</a></li>
 							</ul>
@@ -69,7 +69,6 @@
 											<div class="story-box-content">
 												<ul>
 												    <li>Equipo de primer nivel</li>
-												    <li>Circuito cerrado (a 3 cámaras)</li>
 												    <li>Croma para efectos visuales profesionales</li>
 												    <li>Dron profesional</li>
 												    <li>disponibilidad de trabajo en ambos lados de la frontera.</li>
@@ -85,14 +84,13 @@
 											<img src="<?php echo get_template_directory_uri(); ?>/demos/pmd/images/story/2.jpg" alt="story-image">
 										</div>
 										<div class="story-box-info">
-											<h3 class="story-title">Transmisión de eventos en vivo</h3>
+											<h3 class="story-title">Circuito cerrado</h3>
 											<div class="story-box-content">
 												<ul>
-												    <li>Transmisión en vivo</li>
 												    <li>Alta calidad (4K)</li>
-												    <li>2 cámaras simulteneas</li>
+													<li>3 cámaras simulteneas</li>
+													<li>Transmisión en vivo (Opcional)</li>
 												</ul>
-												<a href="#">Transmisiones realizadas</a>
 											</div>
 										</div>
 									</div>
