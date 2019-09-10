@@ -29,7 +29,21 @@
 	<![endif]-->
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/colors.php?color=fcd307" type="text/css" />
 
-	<!-- Document Title
+
+
+<style>
+body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a, 
+body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a, 
+#primary-menu ul ul li:hover > a, #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a, 
+#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color:#fff !important}
+#primary-menu.style-2 > div > ul > li > a:hover {color:#fff !important;}
+#primary-menu ul > li > a:hover { color:#fff !important; }
+
+@media only screen and (max-width: 991px)
+body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a, #primary-menu ul ul li:hover > a, #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a, #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover {
+    color: #fff !important;
+}
+</style>	<!-- Document Title
 	============================================= -->
 	<title>PMD Comunciación</title>
 

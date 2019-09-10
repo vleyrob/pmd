@@ -201,6 +201,9 @@ input.switch-toggle-round:checked + label:before,
 .dark .cart-product-thumbnail img:hover,
 .heading-block.border-color:after { border-color: <?php echo $color; ?>; }
 
+
+
+#primary-menu.style-4 > ul > li:hover > a { #fff}
 .top-links ul ul,
 .top-links ul div.top-link-section,
 #primary-menu ul ul:not(.mega-menu-column),

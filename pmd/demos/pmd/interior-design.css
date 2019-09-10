@@ -106,6 +106,16 @@ body.side-panel-open #side-panel {
 		text-transform: uppercase;
 	}
 
+
+
+	#primary-menu ul li > a:hover {
+	
+		color: #fff !important;
+	
+	}
+
+
+
 	#primary-menu ul ul:not(.mega-menu-column) {
 		width: 260px;
 		padding: 20px;
@@ -131,6 +141,7 @@ body.side-panel-open #side-panel {
 	#logo img {
 		height: 86px;
 		border-bottom: none;
+		background-color: #f6d935;
 	}
 
 	#header.sticky-header:not(.static-sticky),

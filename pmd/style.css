@@ -984,7 +984,7 @@ html[xmlns] .slider-wrap {display: block;}
 #header {
 	position: relative;
 	background-color: #FFF;
-	border-bottom: 1px solid #F5F5F5;
+	
 }
 
 #header .container { position: relative; }
@@ -2102,7 +2102,7 @@ body.top-search-open #top-account { opacity: 0; }
 	top: 0;
 	left: 0;
 	width: 100%;
-	background-color: #FFF;
+	background-color: #f6d935;
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
